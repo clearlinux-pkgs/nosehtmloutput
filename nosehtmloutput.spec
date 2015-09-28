@@ -4,7 +4,7 @@
 #
 Name     : nosehtmloutput
 Version  : 0.0.5
-Release  : 8
+Release  : 9
 URL      : https://pypi.python.org/packages/source/n/nosehtmloutput/nosehtmloutput-0.0.5.tar.gz
 Source0  : https://pypi.python.org/packages/source/n/nosehtmloutput/nosehtmloutput-0.0.5.tar.gz
 Summary  : Nose plugin to produce test results in html.
